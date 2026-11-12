@@ -54,5 +54,4 @@ Open http://localhost:8000 for the app and http://localhost:8000/docs for the AP
 - The `.pkl` models were saved with scikit-learn 1.9.1. Keep that version pinned.
 - Educational projects only, not medical advice.
 
-## Author
-**Ahmad Sheraz**: [GitHub](https://github.com/codesbyahmad) · [Portfolio](https://codesbyahmad.github.io/MY_Portfolio)
+
